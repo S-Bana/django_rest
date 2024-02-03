@@ -1,0 +1,10 @@
+# git Tut
+
+# create an empty Git repository
+git init
+
+# cheack git
+git status
+
+
+
